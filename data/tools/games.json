@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dummi",
+    "abbreviation": "dum",
+    "franchise": "The Life of",
+    "largeImage": "dummi",
+    "largeText": "Dummi",
+    "smallImage": "dummi",
+    "smallText": "Dummi"
+  },
+  {
+    "name": "Destiny",
+    "abbreviation": "d1",
+    "franchise": "",
+    "largeImage": "destiny",
+    "largeText": "Destiny",
+    "smallImage": "destiny",
+    "smallText": "Destiny"
+  },
+  {
+    "name": "Black Ops",
+    "abbreviation": "bo",
+    "franchise": "Call of Duty",
+    "largeImage": "black-ops",
+    "largeText": "Black Ops",
+    "smallImage": "black-ops",
+    "smallText": "Black Ops"
+  },
+  {
+    "name": "Black Ops II",
+    "abbreviation": "bo2",
+    "franchise": "Call of Duty",
+    "largeImage": "black-ops-ii",
+    "largeText": "Black Ops II",
+    "smallImage": "black-ops-ii",
+    "smallText": "Black Ops II"
+  }
+]

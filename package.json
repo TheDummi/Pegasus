@@ -1,28 +1,17 @@
 {
-  "name": "pegasus",
-  "version": "1.0.0",
-  "description": "An all around utility bot.",
-  "main": "server.js",
-  "scripts": {
-    "python": "echo this is the py script",
-    "javascript": "node javascript/main.js",
-    "presence": "node presence/main.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TheDummi/Pegasus.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TheDummi/Pegasus/issues"
-  },
-  "homepage": "https://github.com/TheDummi/Pegasus#readme",
-  "dependencies": {
-    "discord-rpc": "^4.0.1",
-    "express": "^4.18.1",
-    "got": "11.8.5",
-    "xernerx": "^2.2.0"
-  }
+	"name": "pegasus",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"xernerx": "^4.4.19",
+		"xernerx-commands": "^0.1.1"
+	}
 }
